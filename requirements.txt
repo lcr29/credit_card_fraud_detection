@@ -1,0 +1,7 @@
+numpy 
+pandas
+matplotlib.pyplot
+seaborn
+%matplotlib inline
+scikit-learn
+warnings                                                     
